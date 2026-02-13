@@ -6,7 +6,7 @@ An AI-powered web application that converts natural language UI descriptions int
 
 ## Live Demo
 
-[Deployed URL - Add after deployment]
+https://ai-ui-generator-swart.vercel.app
 
 ## Features
 
